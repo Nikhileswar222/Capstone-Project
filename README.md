@@ -1,3 +1,3 @@
-# Capstone-Project
+# Virtual Traffic Police (Capstone Projects)
 Bachelor of Technology-  Computer Science
-Virtual Traffic Policc
+
